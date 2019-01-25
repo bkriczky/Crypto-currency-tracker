@@ -4,7 +4,7 @@ import Form from './Form'
 import $ from 'jquery'
 import Marketcap from './Marketcap'
 
-const API_KEY = '7869371b7f776667966040da60848425fe7fff3379c9e51afdb9c383e5891f19'
+//const API_KEY = 'Your Api Key'
 
 
 class  Cryptos extends React.Component {
